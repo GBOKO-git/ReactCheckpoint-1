@@ -9,7 +9,7 @@ import Description from './Description';
 import Image from './Image';
 
 
-const userName = "GBOKO AMARA"
+const userName = prompt('veillez saisir votre prenom!')
 
 function App() {
   return (
